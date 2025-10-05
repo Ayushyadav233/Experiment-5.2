@@ -12,7 +12,7 @@ A simple **Node.js + Express + MongoDB** application for managing students using
 - Update a student
 - Delete a student
 
----
+
 
 ## 📁 Folder Structure
 
@@ -27,16 +27,14 @@ StudentManagement/
 ├── package.json
 └── README.md
 
-yaml
-Copy code
 
----
+
 
 ## 🧩 Data Model
 
 ### Student Schema
 
-```json
+```
 {
   "name": "String",
   "age": "Number",
@@ -44,6 +42,8 @@ Copy code
   "createdAt": "Date",
   "updatedAt": "Date"
 }
+```
+
 ⚡ API Endpoints
 Base URL: http://localhost:3000/students
 
