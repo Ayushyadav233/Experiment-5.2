@@ -16,6 +16,7 @@ A simple **Node.js + Express + MongoDB** application for managing students using
 
 ## 📁 Folder Structure
 
+```
 StudentManagement/
 ├── controllers/
 │ └── studentController.js
@@ -26,7 +27,7 @@ StudentManagement/
 ├── server.js
 ├── package.json
 └── README.md
-
+```
 
 
 
